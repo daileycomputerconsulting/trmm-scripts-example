@@ -1,0 +1,11 @@
+{
+    "name": "Check TLS Versions",
+    "shell": "powershell",
+    "default_timeout": 60,
+    "args": [],
+    "script_body": "",
+    "run_as_user": false,
+    "env_vars": [],
+    "description": "",
+    "supported_platforms": ["windows"]
+}

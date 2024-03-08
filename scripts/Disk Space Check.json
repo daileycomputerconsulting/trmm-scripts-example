@@ -1,0 +1,10 @@
+{
+    "name": "Disk Space Check",
+    "shell": "python",
+    "default_timeout": 120,
+    "args": [],
+    "run_as_user": false,
+    "env_vars": [],
+    "description": "disk space check!",
+    "supported_platforms": ["windows"]
+}
